@@ -1,6 +1,10 @@
 # CVCollector
 
-This project is designed to streamline the process of managing resumes, job positions, and candidate information. It provides a user-friendly interface for HR departments to handle resumes efficiently.
+This Telegram bot is designed to streamline the process of managing resumes, job positions, and candidate information. It provides a user-friendly Telegram bot for HR departments to handle resumes efficiently.
+
+| ![GIF 1](assets/seekerdemo.gif) | ![GIF 2](assets/admindemo.gif) |
+|----------------------------|----------------------------|
+| Jobseeker demo              | Admin search demo              |
 
 ## Features
 
